@@ -1,0 +1,16 @@
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\bin\Debug\net5.0\Greenhouse.exe
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\bin\Debug\net5.0\Greenhouse.deps.json
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\bin\Debug\net5.0\Greenhouse.runtimeconfig.json
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\bin\Debug\net5.0\Greenhouse.runtimeconfig.dev.json
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\bin\Debug\net5.0\Greenhouse.dll
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\bin\Debug\net5.0\ref\Greenhouse.dll
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\bin\Debug\net5.0\Greenhouse.pdb
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\obj\Debug\net5.0\Greenhouse.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\obj\Debug\net5.0\Greenhouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\obj\Debug\net5.0\Greenhouse.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\obj\Debug\net5.0\Greenhouse.AssemblyInfo.cs
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\obj\Debug\net5.0\Greenhouse.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\obj\Debug\net5.0\Greenhouse.dll
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\obj\Debug\net5.0\ref\Greenhouse.dll
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\obj\Debug\net5.0\Greenhouse.pdb
+C:\Users\denis\source\repos\Greenhouse\Greenhouse\obj\Debug\net5.0\Greenhouse.genruntimeconfig.cache
